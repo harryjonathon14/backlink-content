@@ -1,0 +1,258 @@
+{
+  "articles": 50,
+  "body_word_count_min": 1000,
+  "body_word_count_max": 1020,
+  "body_word_count_total": 50407,
+  "articles_detail": [
+    {
+      "number": 1,
+      "title": "Fence Installation: A Complete Guide for Homeowners",
+      "body_words": 1016
+    },
+    {
+      "number": 2,
+      "title": "How to Install a Fence: A Step-by-Step Guide for Beginners",
+      "body_words": 1003
+    },
+    {
+      "number": 3,
+      "title": "10 Things to Know Before Starting a Fence Installation Project",
+      "body_words": 1018
+    },
+    {
+      "number": 4,
+      "title": "The Ultimate Fence Installation Checklist for Homeowners",
+      "body_words": 1000
+    },
+    {
+      "number": 5,
+      "title": "How Long Does Fence Installation Take? A Complete Timeline",
+      "body_words": 1012
+    },
+    {
+      "number": 6,
+      "title": "DIY vs. Professional Fence Installation: Which Is Better?",
+      "body_words": 1019
+    },
+    {
+      "number": 7,
+      "title": "Common Fence Installation Mistakes and How to Avoid Them",
+      "body_words": 1008
+    },
+    {
+      "number": 8,
+      "title": "What to Expect During a Professional Fence Installation",
+      "body_words": 1006
+    },
+    {
+      "number": 9,
+      "title": "How to Prepare Your Yard for Fence Installation",
+      "body_words": 1013
+    },
+    {
+      "number": 10,
+      "title": "A Beginner\u2019s Guide to Choosing the Right Fence Installation Method",
+      "body_words": 1001
+    },
+    {
+      "number": 11,
+      "title": "How Much Does Fence Installation Cost? A Complete Price Guide",
+      "body_words": 1016
+    },
+    {
+      "number": 12,
+      "title": "7 Factors That Affect the Cost of Fence Installation",
+      "body_words": 1004
+    },
+    {
+      "number": 13,
+      "title": "Affordable Fence Installation Ideas for Every Budget",
+      "body_words": 1007
+    },
+    {
+      "number": 14,
+      "title": "Fence Installation Cost per Foot: What Homeowners Should Know",
+      "body_words": 1003
+    },
+    {
+      "number": 15,
+      "title": "How to Save Money on Your Next Fence Installation Project",
+      "body_words": 1002
+    },
+    {
+      "number": 16,
+      "title": "Is Professional Fence Installation Worth the Investment?",
+      "body_words": 1006
+    },
+    {
+      "number": 17,
+      "title": "Hidden Costs to Consider Before Installing a New Fence",
+      "body_words": 1002
+    },
+    {
+      "number": 18,
+      "title": "Fence Installation Estimates: What Should Be Included?",
+      "body_words": 1005
+    },
+    {
+      "number": 19,
+      "title": "How to Budget for a Residential Fence Installation",
+      "body_words": 1000
+    },
+    {
+      "number": 20,
+      "title": "Wood vs. Vinyl vs. Metal Fence Installation: Which Offers the Best Value?",
+      "body_words": 1007
+    },
+    {
+      "number": 21,
+      "title": "Wood Fence Installation: Benefits, Costs, and Maintenance Tips",
+      "body_words": 1009
+    },
+    {
+      "number": 22,
+      "title": "Vinyl Fence Installation: Is It the Right Choice for Your Home?",
+      "body_words": 1000
+    },
+    {
+      "number": 23,
+      "title": "Chain-Link Fence Installation: A Practical Guide for Property Owners",
+      "body_words": 1012
+    },
+    {
+      "number": 24,
+      "title": "Aluminum Fence Installation: Pros, Cons, and Design Options",
+      "body_words": 1005
+    },
+    {
+      "number": 25,
+      "title": "Privacy Fence Installation: Best Options for Your Backyard",
+      "body_words": 1010
+    },
+    {
+      "number": 26,
+      "title": "Best Fence Materials for Long-Lasting Fence Installation",
+      "body_words": 1011
+    },
+    {
+      "number": 27,
+      "title": "Horizontal Fence Installation: Modern Designs for Contemporary Homes",
+      "body_words": 1002
+    },
+    {
+      "number": 28,
+      "title": "Picket Fence Installation Ideas to Improve Your Home\u2019s Curb Appeal",
+      "body_words": 1009
+    },
+    {
+      "number": 29,
+      "title": "Metal Fence Installation: Durability, Security, and Style Explained",
+      "body_words": 1005
+    },
+    {
+      "number": 30,
+      "title": "Pool Fence Installation: Safety Requirements and Important Considerations",
+      "body_words": 1010
+    },
+    {
+      "number": 31,
+      "title": "8 Benefits of Professional Fence Installation for Your Property",
+      "body_words": 1012
+    },
+    {
+      "number": 32,
+      "title": "How Fence Installation Can Improve Home Security and Privacy",
+      "body_words": 1008
+    },
+    {
+      "number": 33,
+      "title": "Signs You Need a New Fence Installation Instead of Repairs",
+      "body_words": 1003
+    },
+    {
+      "number": 34,
+      "title": "How to Choose the Right Fence Height for Your Property",
+      "body_words": 1007
+    },
+    {
+      "number": 35,
+      "title": "What to Do Before Fence Installation on Uneven Ground",
+      "body_words": 1000
+    },
+    {
+      "number": 36,
+      "title": "How to Handle Sloped Yards During Fence Installation",
+      "body_words": 1009
+    },
+    {
+      "number": 37,
+      "title": "The Best Time of Year for Fence Installation",
+      "body_words": 1017
+    },
+    {
+      "number": 38,
+      "title": "How to Maintain Your Fence After Installation",
+      "body_words": 1020
+    },
+    {
+      "number": 39,
+      "title": "Fence Installation and Property Lines: What Homeowners Need to Know",
+      "body_words": 1013
+    },
+    {
+      "number": 40,
+      "title": "How Proper Fence Installation Can Increase Your Home\u2019s Curb Appeal",
+      "body_words": 1007
+    },
+    {
+      "number": 41,
+      "title": "How to Choose the Best Fence Installation Company",
+      "body_words": 1010
+    },
+    {
+      "number": 42,
+      "title": "10 Questions to Ask Before Hiring a Fence Installation Contractor",
+      "body_words": 1000
+    },
+    {
+      "number": 43,
+      "title": "Professional Fence Installation Services: What to Look For",
+      "body_words": 1019
+    },
+    {
+      "number": 44,
+      "title": "Local Fence Installation Contractors vs. National Companies",
+      "body_words": 1002
+    },
+    {
+      "number": 45,
+      "title": "How to Compare Fence Installation Quotes Like a Pro",
+      "body_words": 1010
+    },
+    {
+      "number": 46,
+      "title": "What Makes a Reliable Fence Installation Company?",
+      "body_words": 1013
+    },
+    {
+      "number": 47,
+      "title": "Residential Fence Installation: Finding the Right Contractor for Your Home",
+      "body_words": 1016
+    },
+    {
+      "number": 48,
+      "title": "Commercial Fence Installation: A Guide for Business Owners",
+      "body_words": 1008
+    },
+    {
+      "number": 49,
+      "title": "Fence Installation Near Me: How to Find the Right Local Expert",
+      "body_words": 1011
+    },
+    {
+      "number": 50,
+      "title": "Why Hiring Experienced Fence Installation Professionals Matters",
+      "body_words": 1001
+    }
+  ]
+}
